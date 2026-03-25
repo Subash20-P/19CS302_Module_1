@@ -17,8 +17,8 @@ To write a C program to read the age of a person and determine whether he is eli
 ## Program:
 ```
 /*
-Developed by: Kaviyarasan S
-RegisterNumber:  212222060117
+# Reg.No- 212222060255
+# Name- SUBASH P
 */
 #include<stdio.h>
 int main()
